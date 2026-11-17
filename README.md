@@ -29,10 +29,13 @@ Aplicação full stack em que o paciente busca um exame, escolhe o médico, vê 
 | Projeto | Descrição | Stack |
 | --- | --- | --- |
 | [Unidos Por Patinhas](https://github.com/carcaraufersa/partinhas) | Projeto em equipe: atuo no back-end e no front-end, com tarefas no Taiga, Pull Requests e code review | NestJS, React, TypeScript |
-| [Todolist API](https://github.com/AndesondaCruz/Sistema_todolist_backend) | API REST de tarefas no estilo Kanban, com relacionamentos 1:1, 1:N e N:N entre tarefas e tags | NestJS, TypeORM, PostgreSQL, Docker |
-| [Todolist Web](https://github.com/AndesondaCruz/Sistema_TodoList_frontend) | Interface do sistema de tarefas | React, Vite |
+| [Todolist API](https://github.com/AndesondaCruz/todolist-api) | API REST de tarefas no estilo Kanban, com prazo (1:1), subtarefas (1:N) e tags (N:N) | NestJS, TypeORM, PostgreSQL, Docker |
+| [Todolist Web](https://github.com/AndesondaCruz/todolist-web) | Interface Kanban do sistema de tarefas, com arrastar e soltar entre colunas | React, Vite, Axios |
+| [Acerte o Número](https://github.com/AndesondaCruz/jogo-acerte-o-numero) | Jogo de adivinhação com imagem Docker multi-stage servida pelo Nginx | React, TypeScript, Tailwind, Docker |
 | [Compressão de Huffman](https://github.com/AndesondaCruz/huffman-compressao-c) | Compressor e descompressor de arquivos usando o algoritmo de Huffman | C |
-| [Sistema Atacadão](https://github.com/AndesondaCruz/Projeto-de-Estruturas-de-dados-1) | Gerenciamento de estoque com alocação dinâmica, ordenação e busca binária | C |
+| [Sistema Atacadão](https://github.com/AndesondaCruz/atacadao-estoque-c) | Gerenciamento de estoque com alocação dinâmica, ordenação e busca binária | C |
+
+Exercícios das disciplinas da faculdade, em C e Java, estão reunidos em [exercicios-faculdade](https://github.com/AndesondaCruz/exercicios-faculdade).
 
 ---
 

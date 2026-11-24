@@ -2,8 +2,7 @@
 
 Desenvolvedor Full Stack e estudante de Bacharelado em Tecnologia da Informação na UFERSA, em Pau dos Ferros (RN).
 
-Trabalho principalmente com **NestJS e PostgreSQL** no back-end e **React com TypeScript** no front-end. Gosto de entregar projetos testados, containerizados e bem documentados, com as decisões técnicas explicadas no README.
-
+Trabalho principalmente com **NestJS e PostgreSQL** no back-end e **React com TypeScript** no front-end. Gosto de entregar projetos testados, containerizados e bem documentados, gosto de desafios de estar sempre me colocando a frente da solução.
 [LinkedIn](https://www.linkedin.com/in/andeson-almeida-dev/) · andersondacruzdealmeida@gmail.com
 
 ---
